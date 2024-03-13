@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: A trip to UK
+date: 2024-01-24 21:59:00+0800
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I took my first trip abroad to UK.
 
 ---
 
